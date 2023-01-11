@@ -6,7 +6,7 @@ public class topico1 {
 	
 		int idade;
 		
-		idade = 37;
+		idade = 27;
 	
 		System.out.println(idade);
 	
